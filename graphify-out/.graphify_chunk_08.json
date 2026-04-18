@@ -1,0 +1,363 @@
+{
+  "nodes": [
+    {
+      "id": "image3_candlestick_chart",
+      "label": "Candlestick Price Action Chart",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_order_block_zone",
+      "label": "Order Block Zone (Brown Shaded Rectangle)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_order_block",
+      "label": "Order Block (ICT Concept)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_key_price_level",
+      "label": "Key Price Level (Horizontal Blue Line)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_liquidity_pool",
+      "label": "Liquidity Pool Above Swing Highs (Dashed White Rectangle)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_liquidity_sweep",
+      "label": "Liquidity Sweep / Stop Hunt Above Swing Highs",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_swing_high",
+      "label": "Swing High",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_swing_low",
+      "label": "Swing Low",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_bullish_candles",
+      "label": "Bullish Candles (Green)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_bearish_candles",
+      "label": "Bearish Candles (Red)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_session_grid_lines",
+      "label": "Session / Time-Based Vertical Grid Lines (Blue Dashed)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_market_structure_retracement",
+      "label": "Market Structure Retracement Into Order Block",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_price_action",
+      "label": "Price Action",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image3_ict_concepts",
+      "label": "ICT (Inner Circle Trader) Concepts",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "image3_candlestick_chart",
+      "target": "image3_order_block_zone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image3_candlestick_chart",
+      "target": "image3_key_price_level",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image3_candlestick_chart",
+      "target": "image3_liquidity_pool",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image3_candlestick_chart",
+      "target": "image3_session_grid_lines",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image3_candlestick_chart",
+      "target": "image3_bullish_candles",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image3_candlestick_chart",
+      "target": "image3_bearish_candles",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image3_order_block_zone",
+      "target": "image3_order_block",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "image3_order_block",
+      "target": "image3_ict_concepts",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "image3_order_block_zone",
+      "target": "image3_key_price_level",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image3_liquidity_pool",
+      "target": "image3_swing_high",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "image3_liquidity_pool",
+      "target": "image3_liquidity_sweep",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "image3_liquidity_sweep",
+      "target": "image3_swing_high",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.88
+    },
+    {
+      "source": "image3_liquidity_sweep",
+      "target": "image3_ict_concepts",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "image3_market_structure_retracement",
+      "target": "image3_order_block_zone",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.87,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.87
+    },
+    {
+      "source": "image3_market_structure_retracement",
+      "target": "image3_swing_low",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image3_market_structure_retracement",
+      "target": "image3_swing_high",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image3_price_action",
+      "target": "image3_candlestick_chart",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image3_price_action",
+      "target": "image3_market_structure_retracement",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image3_bullish_candles",
+      "target": "image3_price_action",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image3_bearish_candles",
+      "target": "image3_price_action",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 3.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

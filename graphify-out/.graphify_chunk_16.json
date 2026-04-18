@@ -1,0 +1,426 @@
+{
+  "nodes": [
+    {
+      "id": "image11_bos_4h",
+      "label": "Break of Structure (4H Timeframe)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "BOS",
+        "timeframe": "4H",
+        "description": "Break of Structure on the 4-hour chart, annotated with dashed horizontal line marking the broken structure level",
+        "confidence_score": 1.0
+      }
+    },
+    {
+      "id": "image11_market_structure",
+      "label": "Market Structure Analysis",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "market_structure",
+        "description": "Overall market structure visible in chart: downtrend followed by bullish BOS, rally to swing high, then retracement and partial recovery",
+        "confidence_score": 1.0
+      }
+    },
+    {
+      "id": "image11_swing_low_left",
+      "label": "Swing Low / Support Level (Left)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "key_level",
+        "level_type": "support",
+        "description": "White horizontal line on the left side of the chart marking a prior swing low or support level",
+        "confidence_score": 1.0
+      }
+    },
+    {
+      "id": "image11_structural_low_bottom",
+      "label": "Structural Low / Major Support",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "key_level",
+        "level_type": "support",
+        "description": "White horizontal line at the bottom of the chart representing the major structural low or key support",
+        "confidence_score": 1.0
+      }
+    },
+    {
+      "id": "image11_mid_right_support",
+      "label": "Mid-chart Support Level (Right)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "key_level",
+        "level_type": "support",
+        "description": "White horizontal line in the middle-right area marking a support or demand zone after the second sell-off",
+        "confidence_score": 0.9
+      }
+    },
+    {
+      "id": "image11_resistance_blue_upper",
+      "label": "Resistance Level Upper (Blue)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "key_level",
+        "level_type": "resistance",
+        "description": "Upper blue horizontal line on the right side of chart marking a key resistance or supply zone",
+        "confidence_score": 1.0
+      }
+    },
+    {
+      "id": "image11_resistance_blue_lower",
+      "label": "Resistance Level Lower (Blue)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "key_level",
+        "level_type": "resistance",
+        "description": "Lower blue horizontal line just below the upper blue line, forming a resistance zone cluster in the right portion of the chart",
+        "confidence_score": 1.0
+      }
+    },
+    {
+      "id": "image11_bullish_reversal",
+      "label": "Bullish Reversal After BOS",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "price_action",
+        "pattern": "bullish_reversal",
+        "description": "Price action showing a strong bullish move after the BOS 4H level was broken, indicating a change of character or shift in market direction",
+        "confidence_score": 1.0
+      }
+    },
+    {
+      "id": "image11_downtrend_phase",
+      "label": "Initial Downtrend Phase",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "price_action",
+        "pattern": "downtrend",
+        "description": "Initial bearish price movement from a swing high on the left side down to the structural low at the bottom of the chart",
+        "confidence_score": 1.0
+      }
+    },
+    {
+      "id": "image11_session_separators",
+      "label": "Session/Time Separators (Dashed Blue Verticals)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "chart_annotation",
+        "annotation_type": "session_separator",
+        "description": "Dashed vertical blue lines dividing the chart into time periods, likely daily sessions or trading sessions",
+        "confidence_score": 0.8
+      }
+    },
+    {
+      "id": "image11_swing_high_peak",
+      "label": "Swing High / Peak After Rally",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "price_action",
+        "pattern": "swing_high",
+        "description": "Swing high formed after the bullish reversal, representing a key high that price later fails to sustain, triggering the second sell-off",
+        "confidence_score": 1.0
+      }
+    },
+    {
+      "id": "image11_liquidity_levels",
+      "label": "Liquidity Levels (Horizontal Lines)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "liquidity",
+        "description": "Multiple horizontal lines (white and blue) representing liquidity pools where stop orders likely cluster above/below key highs and lows",
+        "confidence_score": 0.85
+      }
+    },
+    {
+      "id": "image11_4h_timeframe",
+      "label": "4-Hour Timeframe Context",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "timeframe",
+        "timeframe": "4H",
+        "description": "The BOS annotation specifies 4H timeframe, indicating this chart or the referenced structure is on the 4-hour chart",
+        "confidence_score": 1.0
+      }
+    },
+    {
+      "id": "image11_candlestick_chart",
+      "label": "Candlestick Price Chart",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "concept": "chart_type",
+        "chart_type": "candlestick",
+        "theme": "dark",
+        "description": "Dark-theme candlestick chart showing red (bearish) and green (bullish) candles used for ICT price action analysis",
+        "confidence_score": 1.0
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "image11_bos_4h",
+      "target": "image11_market_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image11_bos_4h",
+      "target": "image11_4h_timeframe",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image11_bos_4h",
+      "target": "image11_bullish_reversal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image11_downtrend_phase",
+      "target": "image11_structural_low_bottom",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image11_downtrend_phase",
+      "target": "image11_bos_4h",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image11_bullish_reversal",
+      "target": "image11_swing_high_peak",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image11_swing_high_peak",
+      "target": "image11_resistance_blue_upper",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image11_swing_high_peak",
+      "target": "image11_resistance_blue_lower",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image11_liquidity_levels",
+      "target": "image11_swing_low_left",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image11_liquidity_levels",
+      "target": "image11_structural_low_bottom",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image11_liquidity_levels",
+      "target": "image11_resistance_blue_upper",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image11_liquidity_levels",
+      "target": "image11_resistance_blue_lower",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image11_market_structure",
+      "target": "image11_swing_low_left",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image11_market_structure",
+      "target": "image11_swing_high_peak",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image11_market_structure",
+      "target": "image11_mid_right_support",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "image11_candlestick_chart",
+      "target": "image11_market_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image11_session_separators",
+      "target": "image11_4h_timeframe",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "image11_bos_4h",
+      "target": "image11_swing_low_left",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 11.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

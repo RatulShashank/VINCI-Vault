@@ -1,0 +1,564 @@
+{
+  "nodes": [
+    {
+      "id": "image6_candlestick_chart",
+      "label": "Candlestick Price Chart",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Dark-themed candlestick chart showing price action with multiple annotated horizontal levels and structural elements",
+        "color_scheme": "dark background, green bullish candles, red bearish candles"
+      }
+    },
+    {
+      "id": "image6_resistance_level_high",
+      "label": "Key Resistance Level (Upper Red Line)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Red horizontal line marking the swing high resistance area in the upper portion of the chart, acting as a premium zone or liquidity level",
+        "line_color": "red",
+        "position": "upper chart area, spanning from left swing high through central rally peak"
+      }
+    },
+    {
+      "id": "image6_resistance_level_mid",
+      "label": "Mid Resistance Level (Second Red Line)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Red horizontal line in the middle-upper section of the chart, marking a second key resistance or prior swing high level",
+        "line_color": "red",
+        "position": "mid-upper area, near central rally high"
+      }
+    },
+    {
+      "id": "image6_support_level_low",
+      "label": "Key Support Level (Lower Red Line)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Red horizontal line at the bottom of the chart spanning the full width, marking the major support or discount zone / buy-side liquidity level",
+        "line_color": "red",
+        "position": "lower chart area, near absolute swing low"
+      }
+    },
+    {
+      "id": "image6_fvg_or_ob_white_upper",
+      "label": "Fair Value Gap or Order Block (Upper White Box)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "White horizontal rectangle/box in the upper-central region of the chart, marking a Fair Value Gap (FVG) or Order Block (OB) that price reacted to",
+        "line_color": "white",
+        "position": "upper-central area, overlapping with the rally structure"
+      }
+    },
+    {
+      "id": "image6_fvg_or_ob_white_lower",
+      "label": "Fair Value Gap or Order Block (Lower White Box)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "White horizontal rectangle/box in the lower-central region of the chart, marking a second FVG or OB zone that price consolidated around",
+        "line_color": "white",
+        "position": "lower-central area, mid-chart"
+      }
+    },
+    {
+      "id": "image6_fvg_or_ob_white_left",
+      "label": "Fair Value Gap or Order Block (Left White Box)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "White horizontal rectangle/box on the left portion of the chart, marking a FVG or OB zone corresponding to the initial downmove",
+        "line_color": "white",
+        "position": "left-central area"
+      }
+    },
+    {
+      "id": "image6_dashed_rectangle_zone",
+      "label": "Dashed Rectangle Zone (Liquidity Pool or OB)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Dashed rectangle on the right side of the chart indicating a liquidity pool, demand zone, or unmitigated order block that price approached from above",
+        "line_color": "white dashed",
+        "position": "right side, below the post-distribution swing low"
+      }
+    },
+    {
+      "id": "image6_swing_high_left",
+      "label": "Swing High (Left)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Initial swing high visible on the left side of the chart before the major downswing; marks a liquidity pool (sell-side liquidity above highs)"
+      }
+    },
+    {
+      "id": "image6_swing_low_major",
+      "label": "Major Swing Low",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "The absolute swing low of the chart, coinciding with the lower red support line; represents a discount zone and potential buy-side liquidity pool"
+      }
+    },
+    {
+      "id": "image6_downswing_structure",
+      "label": "Downswing / Bearish Market Structure",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Clear downward price movement from the initial swing high to the major swing low, indicating bearish market structure (lower highs, lower lows)"
+      }
+    },
+    {
+      "id": "image6_rally_structure",
+      "label": "Rally / Bullish Recovery Structure",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Strong bullish recovery from the major swing low back up to test resistance levels, suggesting a BOS (Break of Structure) to the upside or a relief rally"
+      }
+    },
+    {
+      "id": "image6_distribution_zone",
+      "label": "Distribution Zone (Post-Rally Selloff)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Bearish price action following the rally peak, indicating distribution or a rejection at resistance, leading to a secondary selloff"
+      }
+    },
+    {
+      "id": "image6_bos_break_of_structure",
+      "label": "Break of Structure (BOS)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Implied BOS event where price breaks a prior swing point, changing the market structure bias; inferred from the rally exceeding intermediate highs"
+      }
+    },
+    {
+      "id": "image6_liquidity_sweep",
+      "label": "Liquidity Sweep",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Price action that sweeps above a prior swing high or below a prior swing low to capture resting liquidity (stop orders) before reversing; visible at both the swing low and rally peak"
+      }
+    },
+    {
+      "id": "image6_fair_value_gap",
+      "label": "Fair Value Gap (FVG)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "ICT concept: a three-candle imbalance where the first candle's high/low does not overlap with the third candle's low/high, leaving an unmitigated gap in price; indicated by white boxes"
+      }
+    },
+    {
+      "id": "image6_order_block",
+      "label": "Order Block (OB)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "ICT concept: the last opposing candle before a significant move; acts as a supply or demand zone where institutional orders are placed; marked by white boxes and the dashed rectangle"
+      }
+    },
+    {
+      "id": "image6_premium_discount_zones",
+      "label": "Premium and Discount Price Zones",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "ICT framework dividing price ranges into premium (above 50% equilibrium, sell) and discount (below 50% equilibrium, buy) zones; the red lines delineate the range boundaries"
+      }
+    },
+    {
+      "id": "image6_market_structure_shift",
+      "label": "Market Structure Shift (MSS)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "A change in the prevailing market structure, from bearish (downswing) to bullish (rally), inferred from the price recovering from the major swing low"
+      }
+    },
+    {
+      "id": "image6_consolidation_zone",
+      "label": "Consolidation / Ranging Zone",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Areas of sideways price action visible mid-chart during the recovery phase, representing accumulation or re-distribution before the next directional move"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "image6_downswing_structure",
+      "target": "image6_swing_low_major",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image6_swing_low_major",
+      "target": "image6_support_level_low",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image6_rally_structure",
+      "target": "image6_swing_low_major",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image6_rally_structure",
+      "target": "image6_resistance_level_high",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image6_rally_structure",
+      "target": "image6_resistance_level_mid",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image6_distribution_zone",
+      "target": "image6_resistance_level_high",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image6_distribution_zone",
+      "target": "image6_dashed_rectangle_zone",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image6_fvg_or_ob_white_upper",
+      "target": "image6_fair_value_gap",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image6_fvg_or_ob_white_upper",
+      "target": "image6_order_block",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image6_fvg_or_ob_white_lower",
+      "target": "image6_fair_value_gap",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image6_fvg_or_ob_white_left",
+      "target": "image6_order_block",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image6_dashed_rectangle_zone",
+      "target": "image6_order_block",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image6_dashed_rectangle_zone",
+      "target": "image6_liquidity_sweep",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image6_bos_break_of_structure",
+      "target": "image6_rally_structure",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image6_market_structure_shift",
+      "target": "image6_bos_break_of_structure",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image6_market_structure_shift",
+      "target": "image6_downswing_structure",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image6_liquidity_sweep",
+      "target": "image6_swing_high_left",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image6_liquidity_sweep",
+      "target": "image6_swing_low_major",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image6_premium_discount_zones",
+      "target": "image6_resistance_level_high",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image6_premium_discount_zones",
+      "target": "image6_support_level_low",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image6_consolidation_zone",
+      "target": "image6_rally_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "image6_fvg_or_ob_white_upper",
+      "target": "image6_rally_structure",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image6_fvg_or_ob_white_lower",
+      "target": "image6_consolidation_zone",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image6_candlestick_chart",
+      "target": "image6_downswing_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image6_candlestick_chart",
+      "target": "image6_rally_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image6_candlestick_chart",
+      "target": "image6_distribution_zone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 6.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

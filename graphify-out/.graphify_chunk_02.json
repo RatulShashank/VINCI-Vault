@@ -1,0 +1,1623 @@
+{
+  "nodes": [
+    {
+      "id": "deep_research_report_kronos",
+      "label": "Kronos Foundation Model — Deep Research Report",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_kronos_tokenizer",
+      "label": "KronosTokenizer — Transformer Autoencoder for K-line Tokenization",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_bsq",
+      "label": "Binary Spherical Quantization (BSQ)",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_hierarchical_token",
+      "label": "Hierarchical Discrete Token (Coarse + Fine Subtokens)",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_autoregressive_model",
+      "label": "Kronos Decoder-Only Autoregressive Transformer",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_kronos_predictor",
+      "label": "KronosPredictor — Inference Wrapper",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_ohlcva",
+      "label": "OHLCVA — K-line Multivariate Input (Open, High, Low, Close, Volume, Amount)",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_dependency_aware_layer",
+      "label": "DependencyAwareLayer — Cross-Attention Coarse-to-Fine",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_monte_carlo_forecasting",
+      "label": "Monte Carlo Forecasting with Sample Count",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_zscore_normalization",
+      "label": "Z-Score Normalization and ±10σ Clipping (Data Preprocessing)",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_rationale_bsq_tokenization",
+      "label": "Rationale: Why BSQ Tokenization for Financial Time-Series",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "deep_research_report_rationale_hierarchical_coarse_fine",
+      "label": "Rationale: Coarse-then-Fine Token Prediction Order",
+      "file_type": "document",
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wiki_index",
+      "label": "VINCI Wiki Master Index",
+      "file_type": "document",
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wiki_log",
+      "label": "VINCI Wiki Activity Log",
+      "file_type": "document",
+      "source_file": "wiki/log.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wiki_thesis",
+      "label": "VINCI Thesis — Core Beliefs and Evidence",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thesis_belief_btc_not_random",
+      "label": "Core Belief: BTC Price Delivery is Not Random (Liquidity-Driven)",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thesis_belief_major_swing_anchors",
+      "label": "Belief: Major Swing Levels are Structural Anchors (Confidence: HIGH)",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thesis_belief_bos_quality_predictable",
+      "label": "Belief: BOS Quality Predictable from Candle Structure (Confidence: MEDIUM)",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thesis_belief_volume_profile_guides",
+      "label": "Belief: Volume Profile Levels Guide Next-Session Behavior (Confidence: LOW-MEDIUM)",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thesis_belief_fractal_alignment_edge",
+      "label": "Belief: Fractal Alignment Transitions Have Short-Horizon Edge (Confidence: LOW)",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thesis_belief_jump_classifiable",
+      "label": "Belief: BTC Jump Dynamics are Classifiable and Calibrated (Confidence: MEDIUM)",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thesis_hypothesis_first_move",
+      "label": "Unvalidated Hypothesis: First-Move Directionality Predicts Ultimate Direction",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thesis_hypothesis_ob_mitigation_entry",
+      "label": "Unvalidated Hypothesis: OB Mitigation as Entry",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thesis_hypothesis_ict_session_timing",
+      "label": "Unvalidated Hypothesis: ICT Session Timing (Asian/London/NY)",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "thesis_hypothesis_fvg_only_within_displacement",
+      "label": "Unvalidated Hypothesis: Only FVGs Within Displacement Range are Valid Targets",
+      "file_type": "document",
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_bos",
+      "label": "Break of Structure (BOS)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/bos-break-of-structure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_bos_scoring",
+      "label": "BOS Quality Scoring System (body_score, range_score, vol_score)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/bos-break-of-structure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_bos_close_type",
+      "label": "BOS Close Type (Wick / Close-Beyond / Full-Body)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/bos-break-of-structure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_displacement",
+      "label": "Displacement (ICT Displacement Range)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/displacement.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_displacement_rationale_range_filter",
+      "label": "Rationale: Displacement Range as FVG/OB Quality Filter",
+      "file_type": "document",
+      "source_file": "wiki/concepts/displacement.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_fvg",
+      "label": "Fair Value Gap (FVG)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/fair-value-gap.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_fvg_quality",
+      "label": "FVG Quality (Wick Analysis: Good vs Poor FVG)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/fair-value-gap.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_fractal_structure",
+      "label": "Fractal Structure (Multi-Timeframe Alignment)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/fractal-structure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_fractal_directional_efficiency",
+      "label": "Directional Efficiency Metric (|net return| / sum |bar returns|)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/fractal-structure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_fractal_alignment_transition",
+      "label": "Fractal Alignment Transition Event (All-TF EMA Consensus Moment)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/fractal-structure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_liquidity",
+      "label": "Liquidity (Buy-Side / Sell-Side / ERL / IRL)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/liquidity.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_liquidity_grab_mechanics",
+      "label": "Liquidity Grab Mechanics (Stop-Hunt Sequence)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/liquidity.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_liquidity_first_move_rule",
+      "label": "First-Move Directionality Rule (Which Side Taken First Determines Ultimate Direction)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/liquidity.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_market_structure",
+      "label": "Market Structure (Major Swing Sequence Defines Trend)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_market_structure_htf_ltf",
+      "label": "HTF-to-LTF Hierarchy (Higher Timeframe Bias, Lower Timeframe Entry)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_market_structure_session_timing",
+      "label": "Session Timing Effects (Asian/London/NY Structural Anchors)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_order_block",
+      "label": "Order Block (OB) — Last Opposing Candle Before Displacement",
+      "file_type": "document",
+      "source_file": "wiki/concepts/order-block.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_order_block_w_structure",
+      "label": "W-Structure Pattern (OB Rebalancing at Large TF Objectives)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/order-block.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_swing_levels",
+      "label": "Swing Levels (Major and Minor — 3-Bar Structure)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/swing-levels.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_swing_levels_major_minor",
+      "label": "Major vs Minor Swing Classification (State-Machine Logic)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/swing-levels.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_volume_profile",
+      "label": "Volume Profile (POC, VAH, VAL, HVN, LVN)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/volume-profile.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_volume_profile_delta",
+      "label": "Delta Volume Profile (Signed Volume: Taker Buy − Sell per Price Bucket)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/volume-profile.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_volume_profile_lvn_momentum",
+      "label": "LVN Momentum Phenomenon (Price Travels Quickly Through Thin Areas)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/volume-profile.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_vwap",
+      "label": "VWAP (Volume-Weighted Average Price)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/vwap.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_vwap_sd_bands",
+      "label": "VWAP Standard Deviation Bands (±1σ and ±2σ)",
+      "file_type": "document",
+      "source_file": "wiki/concepts/vwap.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_vwap_confluence",
+      "label": "VWAP + Previous Session High/Low Confluence Signal",
+      "file_type": "document",
+      "source_file": "wiki/concepts/vwap.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_vwap_volatility_trigger_rationale",
+      "label": "Rationale: VWAP as Volatility Trigger, Not Directional Signal",
+      "file_type": "document",
+      "source_file": "wiki/concepts/vwap.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "deep_research_report_kronos",
+      "target": "deep_research_report_kronos_tokenizer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_kronos",
+      "target": "deep_research_report_bsq",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_kronos",
+      "target": "deep_research_report_hierarchical_token",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_kronos",
+      "target": "deep_research_report_autoregressive_model",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_kronos",
+      "target": "deep_research_report_kronos_predictor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_kronos",
+      "target": "deep_research_report_ohlcva",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_kronos_tokenizer",
+      "target": "deep_research_report_bsq",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_kronos_tokenizer",
+      "target": "deep_research_report_hierarchical_token",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_bsq",
+      "target": "deep_research_report_hierarchical_token",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_autoregressive_model",
+      "target": "deep_research_report_dependency_aware_layer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_autoregressive_model",
+      "target": "deep_research_report_hierarchical_token",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_kronos_predictor",
+      "target": "deep_research_report_zscore_normalization",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_kronos_predictor",
+      "target": "deep_research_report_monte_carlo_forecasting",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_rationale_bsq_tokenization",
+      "target": "deep_research_report_bsq",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "deep_research_report_rationale_hierarchical_coarse_fine",
+      "target": "deep_research_report_hierarchical_token",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "concept_displacement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "concept_fvg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "concept_fractal_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "concept_liquidity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "concept_market_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "concept_order_block",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "concept_swing_levels",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "concept_volume_profile",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "concept_vwap",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_index",
+      "target": "deep_research_report_kronos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/index.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_log",
+      "target": "deep_research_report_kronos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/log.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_log",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/log.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_log",
+      "target": "wiki_index",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "wiki/log.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "thesis_belief_btc_not_random",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "thesis_belief_major_swing_anchors",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "thesis_belief_bos_quality_predictable",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "thesis_belief_volume_profile_guides",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "thesis_belief_fractal_alignment_edge",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "thesis_belief_jump_classifiable",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "thesis_hypothesis_first_move",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "thesis_hypothesis_ob_mitigation_entry",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "thesis_hypothesis_ict_session_timing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "thesis_hypothesis_fvg_only_within_displacement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thesis_belief_major_swing_anchors",
+      "target": "concept_swing_levels",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thesis_belief_bos_quality_predictable",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thesis_belief_volume_profile_guides",
+      "target": "concept_volume_profile",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thesis_belief_fractal_alignment_edge",
+      "target": "concept_fractal_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thesis_hypothesis_first_move",
+      "target": "concept_liquidity_first_move_rule",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thesis_hypothesis_ob_mitigation_entry",
+      "target": "concept_order_block",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thesis_hypothesis_fvg_only_within_displacement",
+      "target": "concept_fvg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thesis_hypothesis_fvg_only_within_displacement",
+      "target": "concept_displacement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_bos",
+      "target": "concept_swing_levels",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/bos-break-of-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_bos",
+      "target": "concept_displacement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/bos-break-of-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_bos",
+      "target": "concept_bos_scoring",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/bos-break-of-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_bos",
+      "target": "concept_bos_close_type",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/bos-break-of-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_displacement",
+      "target": "concept_fvg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/displacement.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_displacement",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/displacement.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_displacement",
+      "target": "concept_order_block",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/displacement.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_displacement_rationale_range_filter",
+      "target": "concept_displacement",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/displacement.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_fvg",
+      "target": "concept_order_block",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/fair-value-gap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_fvg",
+      "target": "concept_displacement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/fair-value-gap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_fvg",
+      "target": "concept_fvg_quality",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/fair-value-gap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_fractal_structure",
+      "target": "concept_market_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/fractal-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_fractal_structure",
+      "target": "concept_fractal_directional_efficiency",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/fractal-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_fractal_structure",
+      "target": "concept_fractal_alignment_transition",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/fractal-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_liquidity",
+      "target": "concept_swing_levels",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/liquidity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_liquidity",
+      "target": "concept_fvg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/liquidity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_liquidity",
+      "target": "concept_liquidity_grab_mechanics",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/liquidity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_liquidity",
+      "target": "concept_liquidity_first_move_rule",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/liquidity.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_market_structure",
+      "target": "concept_swing_levels",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_market_structure",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_market_structure",
+      "target": "concept_fractal_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_market_structure",
+      "target": "concept_liquidity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_market_structure",
+      "target": "concept_market_structure_htf_ltf",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_market_structure",
+      "target": "concept_market_structure_session_timing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_market_structure_htf_ltf",
+      "target": "concept_fractal_structure",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "concept_order_block",
+      "target": "concept_fvg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/order-block.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_order_block",
+      "target": "concept_displacement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/order-block.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_order_block",
+      "target": "concept_order_block_w_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/order-block.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_swing_levels",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/swing-levels.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_swing_levels",
+      "target": "concept_market_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/swing-levels.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_swing_levels",
+      "target": "concept_swing_levels_major_minor",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/swing-levels.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_volume_profile",
+      "target": "concept_vwap",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/volume-profile.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_volume_profile",
+      "target": "concept_volume_profile_delta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/volume-profile.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_volume_profile",
+      "target": "concept_volume_profile_lvn_momentum",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/volume-profile.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_vwap",
+      "target": "concept_volume_profile",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/vwap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_vwap",
+      "target": "concept_vwap_sd_bands",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/vwap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_vwap",
+      "target": "concept_vwap_confluence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/vwap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_vwap_volatility_trigger_rationale",
+      "target": "concept_vwap",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/vwap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_vwap",
+      "target": "concept_market_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/vwap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_vwap",
+      "target": "concept_fractal_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/vwap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_volume_profile_delta",
+      "target": "concept_volume_profile_lvn_momentum",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "wiki/concepts/volume-profile.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "concept_market_structure_session_timing",
+      "target": "thesis_hypothesis_ict_session_timing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "wiki/concepts/market-structure.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "concept_liquidity_first_move_rule",
+      "target": "thesis_hypothesis_first_move",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "wiki/concepts/liquidity.md",
+      "source_location": null,
+      "weight": 0.95
+    },
+    {
+      "source": "deep_research_report_zscore_normalization",
+      "target": "concept_volume_profile",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.6,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 0.6
+    },
+    {
+      "source": "concept_fractal_alignment_transition",
+      "target": "concept_market_structure_htf_ltf",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "wiki/concepts/fractal-structure.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "concept_fvg",
+      "target": "concept_order_block",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "wiki/concepts/fair-value-gap.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "deep_research_report_hierarchical_token",
+      "target": "concept_market_structure_htf_ltf",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "raw/papers/deep-research-report.md",
+      "source_location": null,
+      "weight": 0.65
+    },
+    {
+      "source": "thesis_belief_btc_not_random",
+      "target": "concept_liquidity",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thesis_belief_btc_not_random",
+      "target": "concept_order_block",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "thesis_belief_btc_not_random",
+      "target": "concept_fvg",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_bos_close_type",
+      "target": "thesis_belief_bos_quality_predictable",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/bos-break-of-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "concept_bos_scoring",
+      "target": "thesis_belief_bos_quality_predictable",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/concepts/bos-break-of-structure.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wiki_thesis",
+      "target": "wiki_index",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "wiki/thesis.md",
+      "source_location": null,
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "ict_delivery_mechanism_triad",
+      "label": "ICT Price Delivery Mechanism: Displacement creates BOS and FVG, then rebalances via OB/FVG",
+      "nodes": [
+        "concept_displacement",
+        "concept_bos",
+        "concept_fvg",
+        "concept_order_block"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "wiki/concepts/displacement.md"
+    },
+    {
+      "id": "kronos_tokenization_pipeline",
+      "label": "Kronos Tokenization Pipeline: OHLCVA → BSQ → Hierarchical Coarse+Fine Tokens",
+      "nodes": [
+        "deep_research_report_ohlcva",
+        "deep_research_report_bsq",
+        "deep_research_report_hierarchical_token",
+        "deep_research_report_kronos_tokenizer"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/papers/deep-research-report.md"
+    },
+    {
+      "id": "market_structure_alignment_session_triad",
+      "label": "Multi-Timeframe Structural Bias: Market Structure + Fractal Alignment + Session Timing",
+      "nodes": [
+        "concept_market_structure",
+        "concept_fractal_structure",
+        "concept_market_structure_session_timing"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "wiki/concepts/market-structure.md"
+    }
+  ],
+  "input_tokens": 9800,
+  "output_tokens": 4200
+}

@@ -1,0 +1,404 @@
+{
+  "nodes": [
+    {
+      "id": "image2_candlestick_chart",
+      "label": "Candlestick Price Chart",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_step4_annotation",
+      "label": "Step 4 Annotation (ICT/SMC Sequence)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_swing_low",
+      "label": "Swing Low / Accumulation Zone",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_bullish_rally",
+      "label": "Bullish Rally / Markup Phase",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_bearish_rejection",
+      "label": "Bearish Rejection / Price Reversal at High",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_horizontal_blue_line",
+      "label": "Horizontal Blue Solid Line (Key Support/Resistance Level)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_dashed_white_line",
+      "label": "Dashed White Horizontal Line (Equilibrium / 50% Level)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_vertical_dashed_line",
+      "label": "Vertical Dashed Blue Line (Time/Event Boundary)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_grey_shaded_zone",
+      "label": "Grey Shaded Rectangle Zone (Fair Value Gap or Order Block)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_downtrend_phase",
+      "label": "Initial Downtrend Phase",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_ict_smc_sequence",
+      "label": "ICT/SMC Multi-Step Price Delivery Sequence",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_liquidity_grab",
+      "label": "Liquidity Grab at Swing High",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_market_structure",
+      "label": "Market Structure Shift",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_order_block",
+      "label": "Order Block",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image2_fair_value_gap",
+      "label": "Fair Value Gap (FVG)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "image2_candlestick_chart",
+      "target": "image2_step4_annotation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image2_candlestick_chart",
+      "target": "image2_horizontal_blue_line",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image2_candlestick_chart",
+      "target": "image2_dashed_white_line",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image2_candlestick_chart",
+      "target": "image2_vertical_dashed_line",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image2_candlestick_chart",
+      "target": "image2_grey_shaded_zone",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image2_step4_annotation",
+      "target": "image2_ict_smc_sequence",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image2_ict_smc_sequence",
+      "target": "image2_downtrend_phase",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image2_ict_smc_sequence",
+      "target": "image2_swing_low",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image2_ict_smc_sequence",
+      "target": "image2_bullish_rally",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image2_ict_smc_sequence",
+      "target": "image2_bearish_rejection",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image2_downtrend_phase",
+      "target": "image2_swing_low",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "image2_swing_low",
+      "target": "image2_bullish_rally",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "image2_bullish_rally",
+      "target": "image2_liquidity_grab",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image2_liquidity_grab",
+      "target": "image2_bearish_rejection",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image2_bearish_rejection",
+      "target": "image2_market_structure",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image2_grey_shaded_zone",
+      "target": "image2_fair_value_gap",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image2_grey_shaded_zone",
+      "target": "image2_order_block",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.5,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.5
+    },
+    {
+      "source": "image2_fair_value_gap",
+      "target": "image2_bullish_rally",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image2_order_block",
+      "target": "image2_swing_low",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "image2_dashed_white_line",
+      "target": "image2_bullish_rally",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "image2_horizontal_blue_line",
+      "target": "image2_market_structure",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image2_vertical_dashed_line",
+      "target": "image2_bearish_rejection",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "image2_liquidity_grab",
+      "target": "image2_market_structure",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image 2.png",
+      "source_location": null,
+      "weight": 0.8
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 1024,
+  "output_tokens": 512
+}

@@ -1,0 +1,397 @@
+{
+  "nodes": [
+    {
+      "id": "untitled_binance_btc_chart",
+      "label": "Binance BTC Candlestick Chart",
+      "type": "chart",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "exchange": "Binance",
+        "instrument": "BTC (likely BTCUSDT)",
+        "open": 25808.00,
+        "high": 26070.04,
+        "low": 25784.69,
+        "close": 26056.00,
+        "change": "+248.01 (+0.96%)"
+      },
+      "confidence_score": 1.0
+    },
+    {
+      "id": "untitled_bullish_order_block",
+      "label": "Bullish Order Block",
+      "type": "ict_concept",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Green shaded rectangle zone marking a bullish order block formed after a sharp bearish move; price reacts bullishly from this zone",
+        "color": "green",
+        "direction": "bullish"
+      },
+      "confidence_score": 1.0
+    },
+    {
+      "id": "untitled_liquidity_sweep",
+      "label": "Liquidity Sweep / Stop Hunt",
+      "type": "ict_concept",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Dashed arrow pointing downward on the left side of the chart indicating a liquidity grab below prior lows before bullish reversal",
+        "direction": "downward",
+        "annotation": "dashed arrow"
+      },
+      "confidence_score": 1.0
+    },
+    {
+      "id": "untitled_descending_trendline",
+      "label": "Descending Bearish Trendline",
+      "type": "price_structure",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "White dashed diagonal line on the left side of the chart indicating prior bearish market structure before the order block reaction",
+        "direction": "descending",
+        "style": "dashed"
+      },
+      "confidence_score": 1.0
+    },
+    {
+      "id": "untitled_fibonacci_retracement",
+      "label": "Fibonacci Retracement Levels",
+      "type": "indicator",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "level_100pct": 26609.65,
+        "level_50pct": 26114.33,
+        "level_0pct": 25619,
+        "description": "Fibonacci retracement drawn over the bullish recovery move; 50% equilibrium level at 26,114.33 acts as key reference"
+      },
+      "confidence_score": 1.0
+    },
+    {
+      "id": "untitled_equilibrium_50pct",
+      "label": "Equilibrium (50% Fibonacci Level)",
+      "type": "ict_concept",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "price_level": 26114.33,
+        "percentage": "50.00%",
+        "description": "Equilibrium midpoint of the Fibonacci range; ICT concept where price often rebalances to before continuing the trend"
+      },
+      "confidence_score": 1.0
+    },
+    {
+      "id": "untitled_consolidation_range",
+      "label": "Price Consolidation / Ranging Zone",
+      "type": "price_structure",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Horizontal price range after the bullish OB reaction; price consolidates between approximately 25,900 and 26,200 before bearish continuation",
+        "approximate_low": 25900,
+        "approximate_high": 26200,
+        "boxes_drawn": "white horizontal rectangle boxes annotating the range highs"
+      },
+      "confidence_score": 1.0
+    },
+    {
+      "id": "untitled_bearish_continuation",
+      "label": "Bearish Continuation / Break Down",
+      "type": "price_structure",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Price breaks bearishly on the right side of the chart after the consolidation zone fails to sustain bullish momentum; indicates overall bearish bias"
+      },
+      "confidence_score": 1.0
+    },
+    {
+      "id": "untitled_break_of_structure",
+      "label": "Break of Structure (BOS)",
+      "type": "ict_concept",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Structural shift visible as price makes a sharp drop (bearish BOS) and then recovers from the OB zone creating a temporary bullish structure before resuming bearish"
+      },
+      "confidence_score": 0.8
+    },
+    {
+      "id": "untitled_fair_value_gap",
+      "label": "Fair Value Gap (FVG)",
+      "type": "ict_concept",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Implied FVG from the rapid bearish move into the OB zone; price typically leaves inefficiencies that get partially filled before continuation"
+      },
+      "confidence_score": 0.7
+    },
+    {
+      "id": "untitled_ict_price_action_framework",
+      "label": "ICT Price Action Framework",
+      "type": "methodology",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Inner Circle Trader (ICT) methodology applied to BTC chart: combining order blocks, liquidity sweeps, FVG, BOS, and equilibrium levels to read price action"
+      },
+      "confidence_score": 1.0
+    },
+    {
+      "id": "untitled_smart_money_concepts",
+      "label": "Smart Money Concepts (SMC)",
+      "type": "methodology",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "properties": {
+        "description": "Smart Money Concepts framework visible through use of OB, liquidity grabs, and structural analysis — closely related to ICT methodology"
+      },
+      "confidence_score": 0.9
+    }
+  ],
+  "edges": [
+    {
+      "source": "untitled_liquidity_sweep",
+      "target": "untitled_bullish_order_block",
+      "relation": "references",
+      "description": "Liquidity sweep below prior lows precedes bullish reaction from the order block — classic ICT setup where liquidity is taken before OB mitigation",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "untitled_bullish_order_block",
+      "target": "untitled_consolidation_range",
+      "relation": "references",
+      "description": "Price reacts from the bullish OB and enters a consolidation/ranging phase above the OB zone",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "untitled_consolidation_range",
+      "target": "untitled_bearish_continuation",
+      "relation": "references",
+      "description": "After failing to sustain above equilibrium during consolidation, price breaks down bearishly",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "untitled_fibonacci_retracement",
+      "target": "untitled_equilibrium_50pct",
+      "relation": "references",
+      "description": "The 50% Fibonacci level is explicitly labeled as a key reference at 26,114.33",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "untitled_equilibrium_50pct",
+      "target": "untitled_consolidation_range",
+      "relation": "conceptually_related_to",
+      "description": "The consolidation zone is anchored around the 50% equilibrium level, which acts as a magnet for price",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "untitled_descending_trendline",
+      "target": "untitled_liquidity_sweep",
+      "relation": "references",
+      "description": "The descending trendline represents the prior bearish structure that terminates with the liquidity sweep at the lows",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "untitled_break_of_structure",
+      "target": "untitled_bullish_order_block",
+      "relation": "conceptually_related_to",
+      "description": "The BOS from the sharp drop creates the OB zone; the bullish BOS after OB mitigation confirms temporary structural shift",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "untitled_fair_value_gap",
+      "target": "untitled_bullish_order_block",
+      "relation": "conceptually_related_to",
+      "description": "FVG and OB often co-exist in ICT — the rapid move that creates the OB typically also leaves a FVG that may be partially filled",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "untitled_ict_price_action_framework",
+      "target": "untitled_bullish_order_block",
+      "relation": "references",
+      "description": "ICT framework defines and uses order blocks as key supply/demand zones",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "untitled_ict_price_action_framework",
+      "target": "untitled_liquidity_sweep",
+      "relation": "references",
+      "description": "Liquidity sweeps (stop hunts) are a core ICT concept — smart money takes out retail stops before reversing",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "untitled_ict_price_action_framework",
+      "target": "untitled_fair_value_gap",
+      "relation": "references",
+      "description": "FVG is a fundamental ICT concept representing price inefficiency / imbalance zones",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "untitled_ict_price_action_framework",
+      "target": "untitled_break_of_structure",
+      "relation": "references",
+      "description": "BOS is a core ICT/SMC concept used to identify shifts in market structure",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "untitled_ict_price_action_framework",
+      "target": "untitled_equilibrium_50pct",
+      "relation": "references",
+      "description": "ICT uses equilibrium (50% of a range) to identify optimal entry zones — price often rebalances to equilibrium before continuing",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "untitled_smart_money_concepts",
+      "target": "untitled_ict_price_action_framework",
+      "relation": "conceptually_related_to",
+      "description": "SMC is derived from / closely aligned with ICT methodology; both analyze institutional order flow through OBs, FVGs, and liquidity",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "untitled_binance_btc_chart",
+      "target": "untitled_ict_price_action_framework",
+      "relation": "references",
+      "description": "The BTC chart on Binance is the instrument on which the ICT methodology is being applied",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "untitled_binance_btc_chart",
+      "target": "untitled_fibonacci_retracement",
+      "relation": "references",
+      "description": "Fibonacci retracement tool is drawn directly on the BTC chart to mark key levels",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/Untitled.png",
+      "source_location": null,
+      "weight": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

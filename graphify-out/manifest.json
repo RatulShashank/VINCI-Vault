@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "input_path": "F:/VINCI/VINCI-vault/quant-research",
+  "total_nodes": 425,
+  "total_edges": 585,
+  "total_communities": 41,
+  "outputs": [
+    "graphify-out/graph.html",
+    "graphify-out/graph.json",
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "skipped": [
+    "raw/papers/*.pdf (too large for LLM context)"
+  ]
+}

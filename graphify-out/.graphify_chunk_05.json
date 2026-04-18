@@ -1,0 +1,227 @@
+{
+  "nodes": [
+    {
+      "id": "image_trading_chart_smc",
+      "label": "Trading Chart with Smart Money Concepts Annotations",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_bos",
+      "label": "Break of Structure (BOS)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_daily_ob",
+      "label": "Daily Order Block (Daily OB)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_balancing_above_bos_leg",
+      "label": "Balancing Above the Leg That BOS",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_candlestick_price_action",
+      "label": "Candlestick Price Action",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_smc_framework",
+      "label": "Smart Money Concepts (SMC) Framework",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_horizontal_level",
+      "label": "Horizontal Price Level (Support Zone)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "image_price_retracement",
+      "label": "Price Retracement After BOS",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "image_trading_chart_smc",
+      "target": "image_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image_trading_chart_smc",
+      "target": "image_daily_ob",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image_trading_chart_smc",
+      "target": "image_balancing_above_bos_leg",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image_trading_chart_smc",
+      "target": "image_candlestick_price_action",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image_bos",
+      "target": "image_smc_framework",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image_daily_ob",
+      "target": "image_smc_framework",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image_balancing_above_bos_leg",
+      "target": "image_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image_bos",
+      "target": "image_price_retracement",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image_price_retracement",
+      "target": "image_daily_ob",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "image_daily_ob",
+      "target": "image_horizontal_level",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image_candlestick_price_action",
+      "target": "image_bos",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "image_balancing_above_bos_leg",
+      "target": "image_price_retracement",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "image_smc_framework",
+      "target": "image_horizontal_level",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image.png",
+      "source_location": null,
+      "weight": 0.75
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

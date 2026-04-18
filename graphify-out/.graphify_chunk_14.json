@@ -1,0 +1,389 @@
+{
+  "nodes": [
+    {
+      "id": "image9_candlestick_chart",
+      "label": "Candlestick Price Action Chart",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 1.0
+    },
+    {
+      "id": "image9_bullish_impulse",
+      "label": "Bullish Impulse Move",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 1.0
+    },
+    {
+      "id": "image9_bearish_correction",
+      "label": "Bearish Correction / Retracement Phase",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 1.0
+    },
+    {
+      "id": "image9_swing_highs",
+      "label": "Swing Highs",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 1.0
+    },
+    {
+      "id": "image9_swing_lows",
+      "label": "Swing Lows",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 1.0
+    },
+    {
+      "id": "image9_lower_highs_sequence",
+      "label": "Series of Lower Highs (Bearish Market Structure)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 1.0
+    },
+    {
+      "id": "image9_market_structure_shift",
+      "label": "Market Structure Shift (MSS)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 0.75
+    },
+    {
+      "id": "image9_session_boundary_vertical",
+      "label": "Session Boundary / Time Divider (Dashed Vertical Line)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 0.8
+    },
+    {
+      "id": "image9_price_level_horizontal",
+      "label": "Key Price Level / Crosshair Reference Line (Horizontal Dashed)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 0.85
+    },
+    {
+      "id": "image9_bullish_recovery",
+      "label": "Bullish Recovery After Correction",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 1.0
+    },
+    {
+      "id": "image9_dark_theme_chart",
+      "label": "Dark Theme TradingView-Style Chart",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 0.9
+    },
+    {
+      "id": "image9_price_action",
+      "label": "Price Action Analysis",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 1.0
+    },
+    {
+      "id": "image9_killzone_boundary",
+      "label": "ICT Killzone Session Boundary",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 0.65
+    },
+    {
+      "id": "image9_liquidity_sweep",
+      "label": "Liquidity Sweep / Stop Hunt (Implied by Impulse then Reversal)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 0.6
+    },
+    {
+      "id": "image9_bos_break_of_structure",
+      "label": "Break of Structure (BOS)",
+      "file_type": "image",
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null,
+      "confidence_score": 0.7
+    }
+  ],
+  "edges": [
+    {
+      "source": "image9_candlestick_chart",
+      "target": "image9_price_action",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_candlestick_chart",
+      "target": "image9_bullish_impulse",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_candlestick_chart",
+      "target": "image9_bearish_correction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_candlestick_chart",
+      "target": "image9_swing_highs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_candlestick_chart",
+      "target": "image9_swing_lows",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_candlestick_chart",
+      "target": "image9_session_boundary_vertical",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_candlestick_chart",
+      "target": "image9_price_level_horizontal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_bullish_impulse",
+      "target": "image9_bearish_correction",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_bearish_correction",
+      "target": "image9_lower_highs_sequence",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_lower_highs_sequence",
+      "target": "image9_market_structure_shift",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image9_bearish_correction",
+      "target": "image9_bullish_recovery",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_session_boundary_vertical",
+      "target": "image9_killzone_boundary",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 0.65
+    },
+    {
+      "source": "image9_bullish_impulse",
+      "target": "image9_liquidity_sweep",
+      "relation": "conceptually_related_to",
+      "confidence": "AMBIGUOUS",
+      "confidence_score": 0.6,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 0.6
+    },
+    {
+      "source": "image9_swing_highs",
+      "target": "image9_bos_break_of_structure",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "image9_swing_lows",
+      "target": "image9_bos_break_of_structure",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "image9_market_structure_shift",
+      "target": "image9_bos_break_of_structure",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "image9_price_action",
+      "target": "image9_swing_highs",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_price_action",
+      "target": "image9_swing_lows",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "image9_dark_theme_chart",
+      "target": "image9_candlestick_chart",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.9,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "image9_liquidity_sweep",
+      "target": "image9_bos_break_of_structure",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "raw/notion-exports/image 9.png",
+      "source_location": null,
+      "weight": 0.65
+    }
+  ],
+  "hyperedges": [],
+  "input_tokens": 0,
+  "output_tokens": 0
+}

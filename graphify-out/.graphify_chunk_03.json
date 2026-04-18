@@ -1,0 +1,1573 @@
+{
+  "nodes": [
+    {
+      "id": "experiment_template_experiment",
+      "label": "Experiment Template",
+      "file_type": "document",
+      "source_file": "wiki/experiment/_template.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bos_score_1d_2021_experiment",
+      "label": "BOS Scoring — BTCUSDT Daily 2021",
+      "file_type": "document",
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bos_score_1d_2021_notebook",
+      "label": "Notebook: swing_structure_bos_result_1D",
+      "file_type": "notebook",
+      "source_file": "codes/final/swing_structure_bos_result_1D_0.5 threshold._newipynb.ipynb",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bos_score_1d_2021_btcusdt",
+      "label": "BTCUSDT 1D 2021 Dataset",
+      "file_type": "dataset",
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bos_score_1d_2021_body_score",
+      "label": "Body Score (BOS Component)",
+      "file_type": "concept",
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bos_score_1d_2021_close_bonus",
+      "label": "Close Type Bonus (BOS Score)",
+      "file_type": "concept",
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bos_score_1d_2021_threshold_060",
+      "label": "BOS Score Optimal Threshold 0.60",
+      "file_type": "finding",
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "bos_score_1d_2021_rationale_f1",
+      "label": "Rationale: F1 Optimization for Threshold Selection",
+      "file_type": "rationale",
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "market_obs_jan2020_experiment",
+      "label": "Market Observation — BTCUSDT January 2020",
+      "file_type": "document",
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "market_obs_jan2020_notebook",
+      "label": "Notebook: market-observation_result",
+      "file_type": "notebook",
+      "source_file": "codes/final/market-observation_result.ipynb",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "market_obs_jan2020_volume_profile",
+      "label": "Volume Profile Phase — LVN/VAH/POC Level Analysis",
+      "file_type": "finding",
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "market_obs_jan2020_delta_swing",
+      "label": "Delta at Swing Endpoints (Phase 1D)",
+      "file_type": "finding",
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "market_obs_jan2020_fractal_alignment",
+      "label": "Fractal Alignment Win Rate (Phase 2)",
+      "file_type": "finding",
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "market_obs_jan2020_vwap",
+      "label": "VWAP Band Analysis (Phase 4)",
+      "file_type": "finding",
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "market_obs_jan2020_data_mismatch",
+      "label": "Data Mismatch: 2020 klines / 2021 aggTrades",
+      "file_type": "finding",
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavelet_jump_experiment",
+      "label": "Wavelet Jump Classification — BTCUSDT 2022–2025",
+      "file_type": "document",
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavelet_jump_notebook",
+      "label": "Notebook: Wavelet_Jump_Research (10)",
+      "file_type": "notebook",
+      "source_file": "codes/final/Wavelet_Jump_Research (10).ipynb",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavelet_jump_endogenous",
+      "label": "Endogenous Jump Type (53.6%)",
+      "file_type": "concept",
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavelet_jump_exogenous",
+      "label": "Exogenous Jump Type (43.4%)",
+      "file_type": "concept",
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavelet_jump_anticipatory",
+      "label": "Anticipatory Jump Type (3.0%)",
+      "file_type": "concept",
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavelet_jump_hmm",
+      "label": "HMM Macro Regime (2-State: Quiet/Elevated)",
+      "file_type": "concept",
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavelet_jump_lightgbm",
+      "label": "LightGBM Jump Outcome Model",
+      "file_type": "concept",
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavelet_jump_brier",
+      "label": "Brier Score Calibration (0.1456 mean)",
+      "file_type": "finding",
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "wavelet_jump_rationale_gating",
+      "label": "Rationale: Confidence-Band Gating for Directional Signals",
+      "file_type": "rationale",
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insight_close_type_bos",
+      "label": "Close Type Is Dominant Predictor of BOS Quality",
+      "file_type": "document",
+      "source_file": "wiki/insights/close-type-predicts-bos-quality.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insight_close_type_mechanism",
+      "label": "Mechanism: Wick Rejection Signals Immediate Absorption",
+      "file_type": "rationale",
+      "source_file": "wiki/insights/close-type-predicts-bos-quality.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insight_fractal_alignment",
+      "label": "Fractal Alignment Transitions Have Short-Horizon Directional Edge",
+      "file_type": "document",
+      "source_file": "wiki/insights/fractal-alignment-directional-edge.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insight_fractal_alignment_mechanism",
+      "label": "Mechanism: Multi-TF Alignment Reflects Institutional Flow Consistency",
+      "file_type": "rationale",
+      "source_file": "wiki/insights/fractal-alignment-directional-edge.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insight_jump_calibration",
+      "label": "Wavelet Jump Model Is Calibrated at 40–70% Confidence Band",
+      "file_type": "document",
+      "source_file": "wiki/insights/jump-calibration-edge.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insight_jump_calibration_mechanism",
+      "label": "Mechanism: Pre-Jump Wavelet Structure Encodes Endogenous vs Exogenous Origin",
+      "file_type": "rationale",
+      "source_file": "wiki/insights/jump-calibration-edge.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insight_vwap_confluence",
+      "label": "VWAP + Previous Session High/Low Confluence Amplifies Volatility",
+      "file_type": "document",
+      "source_file": "wiki/insights/vwap-confluence-amplifies-volatility.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insight_vwap_confluence_mechanism",
+      "label": "Mechanism: VWAP + Stop Cluster Confluence Concentrates Order Flow",
+      "file_type": "rationale",
+      "source_file": "wiki/insights/vwap-confluence-amplifies-volatility.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "insights_template_insight",
+      "label": "Insight Template",
+      "file_type": "document",
+      "source_file": "wiki/insights/_template.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "method_bos_scoring",
+      "label": "BOS Scoring System",
+      "file_type": "document",
+      "source_file": "wiki/methods/bos-scoring.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "method_bos_scoring_disp_formula",
+      "label": "Displacement Score Formula (body 0.35 + range 0.35 + vol 0.30)",
+      "file_type": "concept",
+      "source_file": "wiki/methods/bos-scoring.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "method_bos_scoring_close_ceiling",
+      "label": "Close Type Ceiling and Bonus Table",
+      "file_type": "concept",
+      "source_file": "wiki/methods/bos-scoring.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "method_bos_scoring_rationale_close_dominant",
+      "label": "Rationale: Close Type Dominates Body/Range/Volume as BOS Predictor",
+      "file_type": "rationale",
+      "source_file": "wiki/methods/bos-scoring.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "method_multi_tf_alignment",
+      "label": "Multi-Timeframe Alignment",
+      "file_type": "document",
+      "source_file": "wiki/methods/multi-timeframe-alignment.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "method_multi_tf_alignment_ema20",
+      "label": "EMA(20) Trend Direction Signal",
+      "file_type": "concept",
+      "source_file": "wiki/methods/multi-timeframe-alignment.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "method_multi_tf_alignment_rationale_ema",
+      "label": "Rationale: EMA(20) as Simple Proxy for Trend Direction Across TFs",
+      "file_type": "rationale",
+      "source_file": "wiki/methods/multi-timeframe-alignment.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "method_volume_delta",
+      "label": "Volume Delta Analysis",
+      "file_type": "document",
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "method_volume_delta_cvd",
+      "label": "CVD (Cumulative Volume Delta)",
+      "file_type": "concept",
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "method_volume_delta_hvn_delta",
+      "label": "HVN Delta Sign (6x Directional Improvement)",
+      "file_type": "finding",
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "paper_kronos_2024",
+      "label": "Kronos: Decoder-Only Foundation Model for Financial K-Line Data (2024)",
+      "file_type": "document",
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kronos_tokenizer",
+      "label": "KronosTokenizer (BSQ Binary Spherical Quantization)",
+      "file_type": "concept",
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kronos_autoregressive",
+      "label": "Kronos Autoregressive Decoder (Coarse-to-Fine)",
+      "file_type": "concept",
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kronos_ohlcva",
+      "label": "OHLCVA Tokenization as Discrete Language",
+      "file_type": "concept",
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "kronos_rationale_bsq",
+      "label": "Rationale: BSQ Tokenization Unlocks Full Transformer Toolkit for Candles",
+      "file_type": "rationale",
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "question_delta_reversal_gap",
+      "label": "Why Does Delta Z-Score Not Separate Reversals from Continuations?",
+      "file_type": "document",
+      "source_file": "wiki/questions/delta-reversal-signal-gap.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "question_first_move_directionality",
+      "label": "Does the First Directional Move at a Major Swing Level Predict Final Direction?",
+      "file_type": "document",
+      "source_file": "wiki/questions/first-move-directionality.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "question_kronos_btc_finetune",
+      "label": "Can Kronos Fine-Tuned on BTCUSDT Improve Jump Classification?",
+      "file_type": "document",
+      "source_file": "wiki/questions/kronos-btc-finetune.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "questions_template_question",
+      "label": "Question Template",
+      "file_type": "document",
+      "source_file": "wiki/questions/_template.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_ict_market_maker",
+      "label": "ICT Market Maker Model",
+      "file_type": "document",
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "strategy_liquidity_grab_reversal",
+      "label": "Liquidity Grab and Reversal",
+      "file_type": "document",
+      "source_file": "wiki/strategies/liquidity-grab-reversal.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_liquidity",
+      "label": "Liquidity (Concept)",
+      "file_type": "concept",
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_order_block",
+      "label": "Order Block (Concept)",
+      "file_type": "concept",
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_fair_value_gap",
+      "label": "Fair Value Gap (FVG)",
+      "file_type": "concept",
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_displacement",
+      "label": "Displacement (Concept)",
+      "file_type": "concept",
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_bos",
+      "label": "Break of Structure (BOS)",
+      "file_type": "concept",
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_swing_levels",
+      "label": "Swing Levels (Major/Minor)",
+      "file_type": "concept",
+      "source_file": "wiki/questions/first-move-directionality.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_fractal_structure",
+      "label": "Fractal Structure (Concept)",
+      "file_type": "concept",
+      "source_file": "wiki/methods/multi-timeframe-alignment.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_volume_profile",
+      "label": "Volume Profile (Concept)",
+      "file_type": "concept",
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_market_structure",
+      "label": "Market Structure (Concept)",
+      "file_type": "concept",
+      "source_file": "wiki/strategies/liquidity-grab-reversal.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_erl_irl",
+      "label": "ERL → IRL → ERL Cycle",
+      "file_type": "concept",
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "bos_score_1d_2021_experiment",
+      "target": "bos_score_1d_2021_notebook",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bos_score_1d_2021_experiment",
+      "target": "bos_score_1d_2021_threshold_060",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bos_score_1d_2021_rationale_f1",
+      "target": "bos_score_1d_2021_threshold_060",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bos_score_1d_2021_experiment",
+      "target": "bos_score_1d_2021_body_score",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bos_score_1d_2021_experiment",
+      "target": "bos_score_1d_2021_close_bonus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "bos_score_1d_2021_experiment",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "insight_close_type_bos",
+      "target": "bos_score_1d_2021_experiment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/insights/close-type-predicts-bos-quality.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "insight_close_type_mechanism",
+      "target": "insight_close_type_bos",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/insights/close-type-predicts-bos-quality.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_bos_scoring",
+      "target": "bos_score_1d_2021_experiment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/bos-scoring.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_bos_scoring",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/bos-scoring.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_bos_scoring_rationale_close_dominant",
+      "target": "method_bos_scoring",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/bos-scoring.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_bos_scoring",
+      "target": "method_bos_scoring_disp_formula",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/bos-scoring.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_bos_scoring",
+      "target": "method_bos_scoring_close_ceiling",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/bos-scoring.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "insight_close_type_bos",
+      "target": "method_bos_scoring",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "wiki/insights/close-type-predicts-bos-quality.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "market_obs_jan2020_experiment",
+      "target": "market_obs_jan2020_notebook",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "market_obs_jan2020_experiment",
+      "target": "market_obs_jan2020_delta_swing",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "market_obs_jan2020_experiment",
+      "target": "market_obs_jan2020_fractal_alignment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "market_obs_jan2020_experiment",
+      "target": "market_obs_jan2020_vwap",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "market_obs_jan2020_experiment",
+      "target": "market_obs_jan2020_volume_profile",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "market_obs_jan2020_experiment",
+      "target": "question_delta_reversal_gap",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "insight_fractal_alignment",
+      "target": "market_obs_jan2020_experiment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/insights/fractal-alignment-directional-edge.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "insight_fractal_alignment_mechanism",
+      "target": "insight_fractal_alignment",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/insights/fractal-alignment-directional-edge.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_multi_tf_alignment",
+      "target": "market_obs_jan2020_experiment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/multi-timeframe-alignment.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_multi_tf_alignment",
+      "target": "concept_fractal_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/multi-timeframe-alignment.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_multi_tf_alignment_rationale_ema",
+      "target": "method_multi_tf_alignment_ema20",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/multi-timeframe-alignment.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "insight_fractal_alignment",
+      "target": "method_multi_tf_alignment",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "wiki/insights/fractal-alignment-directional-edge.md",
+      "source_location": null,
+      "weight": 0.9
+    },
+    {
+      "source": "insight_vwap_confluence",
+      "target": "market_obs_jan2020_experiment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/insights/vwap-confluence-amplifies-volatility.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "insight_vwap_confluence_mechanism",
+      "target": "insight_vwap_confluence",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/insights/vwap-confluence-amplifies-volatility.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavelet_jump_experiment",
+      "target": "wavelet_jump_notebook",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavelet_jump_experiment",
+      "target": "wavelet_jump_endogenous",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavelet_jump_experiment",
+      "target": "wavelet_jump_exogenous",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavelet_jump_experiment",
+      "target": "wavelet_jump_anticipatory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavelet_jump_experiment",
+      "target": "wavelet_jump_hmm",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavelet_jump_experiment",
+      "target": "wavelet_jump_lightgbm",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavelet_jump_experiment",
+      "target": "wavelet_jump_brier",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavelet_jump_rationale_gating",
+      "target": "wavelet_jump_lightgbm",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "wavelet_jump_experiment",
+      "target": "method_volume_delta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "insight_jump_calibration",
+      "target": "wavelet_jump_experiment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/insights/jump-calibration-edge.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "insight_jump_calibration_mechanism",
+      "target": "insight_jump_calibration",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/insights/jump-calibration-edge.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_volume_delta",
+      "target": "concept_volume_profile",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_volume_delta",
+      "target": "method_multi_tf_alignment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_volume_delta",
+      "target": "market_obs_jan2020_experiment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_volume_delta",
+      "target": "question_delta_reversal_gap",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "question_delta_reversal_gap",
+      "target": "market_obs_jan2020_experiment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/questions/delta-reversal-signal-gap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "question_delta_reversal_gap",
+      "target": "method_volume_delta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/questions/delta-reversal-signal-gap.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_kronos_2024",
+      "target": "method_bos_scoring",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_kronos_2024",
+      "target": "method_volume_delta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "kronos_rationale_bsq",
+      "target": "kronos_tokenizer",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_kronos_2024",
+      "target": "kronos_tokenizer",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_kronos_2024",
+      "target": "kronos_autoregressive",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "paper_kronos_2024",
+      "target": "kronos_ohlcva",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/papers/kronos-2024.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "question_kronos_btc_finetune",
+      "target": "paper_kronos_2024",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/questions/kronos-btc-finetune.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "question_kronos_btc_finetune",
+      "target": "wavelet_jump_experiment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/questions/kronos-btc-finetune.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "question_kronos_btc_finetune",
+      "target": "method_volume_delta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/questions/kronos-btc-finetune.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_ict_market_maker",
+      "target": "concept_liquidity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_ict_market_maker",
+      "target": "concept_order_block",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_ict_market_maker",
+      "target": "concept_fair_value_gap",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_ict_market_maker",
+      "target": "concept_displacement",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_ict_market_maker",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_liquidity_grab_reversal",
+      "target": "concept_liquidity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/liquidity-grab-reversal.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_liquidity_grab_reversal",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/liquidity-grab-reversal.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_liquidity_grab_reversal",
+      "target": "concept_fair_value_gap",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/liquidity-grab-reversal.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_liquidity_grab_reversal",
+      "target": "concept_order_block",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/liquidity-grab-reversal.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_liquidity_grab_reversal",
+      "target": "concept_market_structure",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/liquidity-grab-reversal.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_liquidity_grab_reversal",
+      "target": "question_first_move_directionality",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/liquidity-grab-reversal.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "question_first_move_directionality",
+      "target": "concept_liquidity",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/questions/first-move-directionality.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "question_first_move_directionality",
+      "target": "concept_bos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/questions/first-move-directionality.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "question_first_move_directionality",
+      "target": "concept_swing_levels",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/questions/first-move-directionality.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "question_first_move_directionality",
+      "target": "strategy_liquidity_grab_reversal",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/questions/first-move-directionality.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "question_first_move_directionality",
+      "target": "bos_score_1d_2021_experiment",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/questions/first-move-directionality.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "strategy_ict_market_maker",
+      "target": "strategy_liquidity_grab_reversal",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "wavelet_jump_experiment",
+      "target": "bos_score_1d_2021_experiment",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "insight_close_type_bos",
+      "target": "insight_jump_calibration",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.65,
+      "source_file": "wiki/insights/close-type-predicts-bos-quality.md",
+      "source_location": null,
+      "weight": 0.65
+    },
+    {
+      "source": "method_bos_scoring",
+      "target": "method_multi_tf_alignment",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "wiki/methods/bos-scoring.md",
+      "source_location": null,
+      "weight": 0.75
+    },
+    {
+      "source": "kronos_tokenizer",
+      "target": "wavelet_jump_lightgbm",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "wiki/questions/kronos-btc-finetune.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "market_obs_jan2020_data_mismatch",
+      "target": "market_obs_jan2020_delta_swing",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "weight": 0.8
+    },
+    {
+      "source": "concept_erl_irl",
+      "target": "strategy_ict_market_maker",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/strategies/ict-market-maker-model.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_volume_delta_cvd",
+      "target": "method_volume_delta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_volume_delta_hvn_delta",
+      "target": "method_volume_delta",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "weight": 1.0
+    },
+    {
+      "source": "method_volume_delta_cvd",
+      "target": "wavelet_jump_experiment",
+      "relation": "references",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "wiki/methods/volume-delta.md",
+      "source_location": null,
+      "weight": 0.85
+    },
+    {
+      "source": "bos_score_1d_2021_experiment",
+      "target": "insight_fractal_alignment",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.7,
+      "source_file": "wiki/experiments/bos-score-1d-2021.md",
+      "source_location": null,
+      "weight": 0.7
+    },
+    {
+      "source": "market_obs_jan2020_volume_profile",
+      "target": "insight_vwap_confluence",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "wiki/experiments/market-observation-jan2020.md",
+      "source_location": null,
+      "weight": 0.75
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "bos_scoring_validation_pipeline",
+      "label": "BOS Scoring Validation Pipeline: Method → Experiment → Insight",
+      "nodes": [
+        "method_bos_scoring",
+        "bos_score_1d_2021_experiment",
+        "insight_close_type_bos"
+      ],
+      "relation": "implement",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "wiki/methods/bos-scoring.md"
+    },
+    {
+      "id": "wavelet_jump_model_stack",
+      "label": "Wavelet Jump Model Stack: HMM Regime + Wavelet Features + LightGBM",
+      "nodes": [
+        "wavelet_jump_hmm",
+        "wavelet_jump_lightgbm",
+        "wavelet_jump_experiment"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "wiki/experiments/wavelet-jump-classification.md"
+    },
+    {
+      "id": "ict_structural_concepts",
+      "label": "ICT Structural Concepts: Liquidity + BOS + FVG Form the Setup Framework",
+      "nodes": [
+        "concept_liquidity",
+        "concept_bos",
+        "concept_fair_value_gap"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.95,
+      "source_file": "wiki/strategies/ict-market-maker-model.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
