@@ -8,6 +8,9 @@ VINCI is a personal second brain architecture for researchers, quantitative anal
 
 The system is built around one core insight from Andrej Karpathy's LLM wiki pattern: **knowledge should be compiled once and kept current, not re-derived from raw sources on every query.** VINCI extends this into a full research pipeline with gap detection, hypothesis generation, and experiment tracking.
 
+<img width="2554" height="1352" alt="image" src="https://github.com/user-attachments/assets/fa197bbe-ea50-420b-bae3-40abc4b6c0b3" />
+
+
 ---
 
 ## Architecture
